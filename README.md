@@ -1,6 +1,4 @@
-# Kamal hai
-This project is made using Python.
+# Web Scraping Project
+This project is made using Python (request module, beautiful soup 4, )
 
-Concepts like request module
-
-> Request - Package used to extract data from any url
+> Request - Package used to extract data from BBC News Website
